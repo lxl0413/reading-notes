@@ -1,0 +1,1 @@
+Q1: AppendEntries时，leader失败了会无限重试，那万一follower已经宕机了呢？
